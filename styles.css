@@ -31,16 +31,16 @@ h1, h2, h3, p, .rubik {
 .contenedor-home{
     display: flex;
     flex-wrap: wrap;
-
+    align-items: center;
 
 }
 
 .contenedor1-home {
-    width: 30rem;
+    width: 45%;
 }
 
 .contenedor2-home{
-    width: 20rem;
+    width: 30%;
 
 }
 
@@ -90,7 +90,26 @@ h1, h2, h3, p, .rubik {
 }
 
 
+.email{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
 
+
+
+
+footer{
+    margin-bottom: 2rem;
+    display: flex;
+}
+
+
+footer
+
+.redes-sociales img{
+    width: 30px;
+}
 
 
 
